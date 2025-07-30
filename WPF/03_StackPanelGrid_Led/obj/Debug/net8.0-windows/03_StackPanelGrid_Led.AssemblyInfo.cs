@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03_StackPanelGrid_Led")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8213ee023045a6f4de55c785d34a137a5d4cfef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78372b834719d0b2a9f39f8c207cc1c120803915")]
 [assembly: System.Reflection.AssemblyProductAttribute("03_StackPanelGrid_Led")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03_StackPanelGrid_Led")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
